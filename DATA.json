@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "Name": "Jake",
+            "Age": 21,
+            "Gender": "Male",
+            "Disease": "Typhoid",
+            "Sympts": [
+                "diarrhoea",
+                "nausea",
+                "vomiting",
+                "fatigue",
+                "high_fever",
+                "headache",
+                "constipation"
+            ]
+        }
+    ]
+}
